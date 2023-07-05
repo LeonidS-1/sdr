@@ -19,4 +19,4 @@ translate = soup.find_all('div', class_='translate')
 for i in range(len(original)):
     print(original[i].text)
     print(translate[i].text)
-print(1)
+print(10)
